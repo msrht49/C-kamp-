@@ -16,10 +16,10 @@ Bu kamp,projeler yazılım alanında yeni bakış açıları kazanmamda da etkil
        :fast_forward: Bu projede karar yapılarına giriş yapıldı.If-else ve switch case yapılarını öğrendim.Bunlarla ilgili çeşitli örnekler yapıldı ve hangi şartlarda ne karar verildiği gözlendi.
 
 
-:arrow_forward: PROJE 4:Loops                                                                                                                                                     fast_forward: Bu projede for ve while döngülerinin mantığını kavradım.Çeşitli örnekler yaptım.Bu örneklerde hangi durumda hangi döngüyü tercih etmem gerektiğine karar verdim.
+:arrow_forward: PROJE 4:Loops                                                                                                                                                     :fast_forward: Bu projede for ve while döngülerinin mantığını kavradım.Çeşitli örnekler yaptım.Bu örneklerde hangi durumda hangi döngüyü tercih etmem gerektiğine karar verdim.
 
 
-:arrow_forward: PROJE 5:LoopsWithStars                                                                                                                                           :fast_forward: Bu projede döngüleri ve yıldız(*) simgesini kullanarak çeşitli şekiller oluşturmaya çalıştım.İç içe döngü mantığını kavradım.Bu örnek uygulamalar pratik açısından etkili oldu.
+:arrow_forward: PROJE 5:LoopsWithStars                                                                                                                                            :fast_forward: Bu projede döngüleri ve yıldız(*) simgesini kullanarak çeşitli şekiller oluşturmaya çalıştım.İç içe döngü mantığını kavradım.Bu örnek uygulamalar pratik açısından etkili oldu.
 
 
 :arrow_forward: PROJE 6:Arrays                                                                                                                                                  :fast_forward: Bu projede array konusuna giriş yapıldı ve örnekler yapıldı.Dizideki elemanları listeleme,metot kullanma ayrıca kullancıdan değer alma gibi uygulamalarla pekiştimeye çalıştım.
